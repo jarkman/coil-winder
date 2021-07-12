@@ -14,7 +14,7 @@
   Stepper is currently a 2A one:
   https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-and-connector.html
   
-
+  The stepper driver has a stick-on heatsink and a 40mm 5v fan, without that it has overheated more than once.
 */
 
 // Set driver current by measuring vRef voltage and turning pot
