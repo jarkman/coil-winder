@@ -53,7 +53,7 @@ float targetSpeed = 200.0 * MICROSTEPS;
 unsigned long lastUpdateMicros = 0;
 
 
-#define MAX_RPS 6
+#define MAX_RPS 5
 
 
 
